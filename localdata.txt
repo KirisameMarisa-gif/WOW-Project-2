@@ -1,0 +1,12 @@
+nnn
+
+green
+a6
+nnn
+
+rgb(0, 128, 0)
+a6
+nnn
+
+rgb(0, 128, 0)
+b6
